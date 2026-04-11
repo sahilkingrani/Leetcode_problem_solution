@@ -18,8 +18,8 @@ Welcome to my daily LeetCode practice repository This repo serves as a journey o
 The solutions are organized by difficulty level to make navigation easier:
 
 * **Easy:** Fundamental concepts and data structures.
-* **Medium:** Complex logic, dynamic programming, and advanced trees/graphs.
-* **Hard:** Highly optimized algorithms and competitive programming level challenges.
+* **Medium:** Complex logic, dynamic programming, and trees/graphs.
+* **Hard:** Optimized algorithms and competitive programming level challenges.
 
 ---
 
