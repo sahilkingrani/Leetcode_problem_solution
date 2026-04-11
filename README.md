@@ -1,10 +1,10 @@
 # 🚀 LeetCode Daily Solutions
 
-Welcome to my daily LeetCode practice repository! This repo serves as a journey of my algorithmic thinking and problem-solving consistency. My goal is to maintain a daily streak and help others who are looking for clear, optimized solutions.
+Welcome to my daily LeetCode practice repository This repo serves as a journey of my algorithmic thinking and problem-solving consistency. My goal is to maintain a daily streak and help others who are looking for clear, optimized solutions.
 
 ## 📌 Repository Overview
 
-| Category | Icon |
+| Category | Leetcode |
 | :--- | :--- |
 | **Consistency** | Daily Updates |
 | **Language** | Python |
@@ -41,6 +41,7 @@ The solutions are organized by difficulty level to make navigation easier:
 
 ## 📬 Connect with Me
 
-If you have a better approach or want to discuss a specific problem, feel free to open an issue or reach out!
+If you have a better approach or want to discuss a specific problem, feel free to open an issue or reach out.
+Linkdein:["https://www.linkedin.com/in/sahil-kumar-a24b66270/"]
 
 **"Consistency is the key to mastering Data Structures and Algorithms."**
