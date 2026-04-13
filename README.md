@@ -17,7 +17,7 @@ Welcome to my daily LeetCode practice repository This repo serves as a journey o
 
 The solutions are organized by difficulty level to make navigation easier:
 
-* **Easy:** Fundamental concepts and data structures.
+* **Easy:** Fundamental concepts and data structure.
 * **Medium:** Complex logic, dynamic programming, and trees/graphs.
 * **Hard:** Optimized algorithms and competitive programming level challenges.
 
