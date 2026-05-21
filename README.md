@@ -1,6 +1,6 @@
 **"Consistency is the key to mastering Data Structures and Algorithms."**
  
- # 🚀 LeetCode Daily Solutions
+ #  LeetCode Daily Solutions
 
 Welcome to my daily LeetCode practice repository This repo serves as a journey of my algorithmic thinking and problem-solving consistency. My goal is to maintain a daily streak and help others who are looking for clear, optimized solutions.
 
