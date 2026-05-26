@@ -37,7 +37,7 @@ The solutions are organized by difficulty level to make navigation easier:
 
 ## 📈 Stats & Progress
 
-*If you find these solutions helpful, feel free to ⭐ the repository!*
+*If you find these solutions helpful, feel free to ⭐ the repository *
 
 ---
 
