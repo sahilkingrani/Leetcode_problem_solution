@@ -25,7 +25,7 @@ The solutions are organized by difficulty level to make navigation easier:
 
 ---
 
-## 🛠️ How I Approach Problems
+## 🛠️ How I Approach Problem
 
 1.  **Understand:** Reading the constraints and edge cases carefully.
 2.  **Logic First:** Drafting the pseudocode before jumping into the editor.
