@@ -31,7 +31,7 @@ The solution are organized by difficulty level to make navigation easier:
 2.  **Logic First:** Drafting the pseudocode before jumping into the editor.
 3.  **Complexity Analysis:** Ensuring the solution fits within the time limits.
     * *Time Complexity:* Aiming for the most efficient $O(n)$ or $O(\log n)$ where possible.
-    * *Space Complexity:* Minimizing extra memory usage.
+    * *Space Complexity:* Minimizi extra memory usage.
 
 ---
 
