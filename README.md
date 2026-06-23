@@ -4,7 +4,7 @@
 
 Welcome to my daily LeetCode practice repository This repo serves as a journey of my algorithmic thinking and problem-solving consistency. My goal is to maintain a daily streak and help others who are looking for clear, optimized solutions.
 
-## 📌 Repository Overview
+## 📌 Repository Overviews
 
 | Category | Leetcode |
 | :--- | :--- |
