@@ -15,7 +15,7 @@ Welcome to my daily LeetCode practice repository This repo serves as a journey o
 
 ---
 
-## 📂 Structure
+## 📂Structure
 
 The solution are organized by difficulty level to make navigation easier:
 
